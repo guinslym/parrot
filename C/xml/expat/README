@@ -1,1 +1,0 @@
-cat excluded-test-cases.xml | ./outline
